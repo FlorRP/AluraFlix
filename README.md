@@ -19,7 +19,7 @@ Dentro de cada tarjeta, de la página principal, hay dos botones uno "Borrar" el
 # AluraFlix
 AluraFlix is an app made with <strong>React.js</strong> tecnology. It is not finished yet, I want to add other pages where we can watch the videos and see their description, also I want to add a button for an english version of the app.
 
-In the HOME page the videos are listed and divided into 3 categories: "Front End", "Back End" and "Manadment and innovation", the app recognices in which category the video should be and it automatically puts it in the corresponding category. To get the videos API consumption is needed, I created ab API with
+In the HOME page the videos are listed and divided into 3 categories: "Front End", "Back End" and "Managment and innovation", the app recognices in which category the video should be and it automatically puts it in the corresponding category. To get the videos API consumption is needed, I created ab API with
 
 https://mockapi.io
 
